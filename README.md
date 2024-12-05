@@ -1,6 +1,6 @@
 # :wave:
 
-## My2Dame
+## My2DGame
 
 - [Docs](https://www.youtube.com/watch?app=desktop&v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq)
 
